@@ -1,0 +1,3 @@
+[submodule "NYTBestSellers.Flutter"]
+	path = NYTBestSellers.Flutter
+	url = https://github.com/CORDEA/NYTBestSellers.Flutter.git
