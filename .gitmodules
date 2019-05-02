@@ -4,3 +4,6 @@
 [submodule "NYTBestSellers.KotlinMPP"]
 	path = NYTBestSellers.KotlinMPP
 	url = https://github.com/CORDEA/NYTBestSellers.KotlinMPP.git
+[submodule "NYTBestSellers.Xamarin"]
+	path = NYTBestSellers.Xamarin
+	url = https://github.com/CORDEA/NYTBestSellers.Xamarin.git
